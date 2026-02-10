@@ -1,0 +1,1 @@
+Как делать гит пуш в репозиторию: cd Desktop/, cd piton/, git add ., git commit "???", git push -u origin main
